@@ -15,7 +15,7 @@ deployment "development" {
     subscription_id = "c842c56f-30ba-4e69-9cb1-338e4a1d0b1f"
     tenant_id       = "cb934f1e-2f3c-4379-9765-82e86239f036"
   }
-  destroy = true
+  # destroy = true
 }
 
 # deployment "production" {
